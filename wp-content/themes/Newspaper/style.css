@@ -435,7 +435,7 @@ th {
 img {
   max-width: 100%;
   width: auto\9;
-  height: auto;
+  /* height: auto; */
 }
 .td-main-content-wrap,
 .td-category-grid {
@@ -13081,7 +13081,7 @@ blockquote.pull-right:after {
   }
 }
 .td_block_24 .td-column-3 .td-module-thumb .entry-thumb {
-  height: auto;
+  /* height: auto; */
   /* responsive portrait tablet */
   /* responsive portrait phone */
 }
